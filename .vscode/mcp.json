@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"mymlh": {
+			"type": "http",
+			"url": "https://mymlh-mcp.git.ci/mcp"
+		},
+		"Github": {
+			"url": "https://github.com/AyushLodha71",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
