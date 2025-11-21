@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=3474A4&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Ethical+Hacking;Cybersecurity;AI%2FML;Data+Science" alt="Typing SVG" /></a>
+
 [![Followers](https://img.shields.io/github/followers/AyushLodha71?label=Followers&style=flat-square)](https://github.com/AyushLodha71)
 
 ## About
