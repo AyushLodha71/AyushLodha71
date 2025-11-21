@@ -3,7 +3,7 @@
 [![Followers](https://img.shields.io/github/followers/AyushLodha71?label=Followers&style=flat-square)](https://github.com/AyushLodha71)
 
 ## About
-👋 Heyo, I'm Ayush Lodha. I'm a student at the University of Waterloo, pursuing a degree in Honors Math. I'm passionate about the intersection of mathematics and technology, with a strong focus on cybersecurity and artificial intelligence.
+👋 Hello, I'm Ayush Lodha. I'm a student at the University of Waterloo, pursuing a degree in Honors Math. I'm passionate about the intersection of mathematics and technology, with a strong focus on cybersecurity and artificial intelligence.
 
 - 📍 Location: Waterloo, ON, Canada
 - 🎓 Education: University of Waterloo (Honors Math)
